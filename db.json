@@ -1,0 +1,27 @@
+{
+  "Doacoes" [
+  {
+    "id": 1,
+    "ong": "ONG Exemplo 1",
+    "valor": 50.0,
+    "metodoPagamento": "Pix"
+  },
+  {
+    "id": 2,
+    "ong": "ONG Exemplo 1",
+    "valor": 25.0,
+    "metodoPagamento": "Débito"
+  },
+  {
+    "id": 3,
+    "ong": "ONG Exemplo 2",
+    "valor": 100.0,
+    "metodoPagamento": "Crédito"
+  },
+  {
+    "id": 4,
+    "ong": "ONG Exemplo 2",
+    "valor": 75.0,
+    "metodoPagamento": "Pix"
+  }
+]
