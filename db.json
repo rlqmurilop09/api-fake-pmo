@@ -49,3 +49,39 @@
     }
   ]
 }
+
+
+{
+  "apelidos": [
+    {
+      "id": 1,
+      "nome": "Bolinha",
+      "propriedadeId": 1
+    },
+    {
+      "id": 2,
+      "nome": "Fofão",
+      "propriedadeId": 1
+    },
+    {
+      "id": 3,
+      "nome": "Mimosa",
+      "propriedadeId": 2
+    },
+    {
+      "id": 4,
+      "nome": "Rex",
+      "propriedadeId": 3
+    },
+    {
+      "id": 5,
+      "nome": "Pipoca",
+      "propriedadeId": 3
+    },
+    {
+      "id": 6,
+      "nome": "Amora",
+      "propriedadeId": 4
+    }
+  ]
+}
