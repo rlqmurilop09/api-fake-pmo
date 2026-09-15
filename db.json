@@ -28,30 +28,27 @@
 
   "users": [
     {
-        "id": "1",
-        "username": "joao@gmail.com",
-        "password": "123456"
+      "id": "1",
+      "username": "joao@gmail.com",
+      "password": "123456"
     },
     {
-        "id": "2",
-        "username": "mariaclara@gmail.com",
-        "password": "123456"
+      "id": "2",
+      "username": "mariaclara@gmail.com",
+      "password": "123456"
     },
     {
-        "id": "3",
-        "username": "murilo@gmail.com",
-        "password": "123456"
+      "id": "3",
+      "username": "murilo@gmail.com",
+      "password": "123456"
     },
     {
-        "id": "4",
-        "username": "cristiane@gmail.com",
-        "password": "123456"
+      "id": "4",
+      "username": "cristiane@gmail.com",
+      "password": "123456"
     }
-  ]
-}
+  ],
 
-
-{
   "apelidos": [
     {
       "id": 1,
