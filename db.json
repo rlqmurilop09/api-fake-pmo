@@ -80,48 +80,5 @@
       "nome": "Amora",
       "propriedadeId": 4
     }
-  ],
-
-  "animais": [
-    {
-      "id": 1,
-      "nome": "Alberto",
-      "data": "10/04/2019",
-      "adotado": "Adotado pela familia Bispo",
-      "historia": "Um pintinho pequeno e cheio de energia, resgatado com muito cuidado. Curioso e alegre, ele adora explorar e ficar perto de quem cuida dele. Agora, vive em um lar seguro, cheio de carinho e atenção.",
-      "urlImage": "https://www.chumbogordo.com.br/wp-content/uploads/2022/07/pinto-pequeno-400x380.jpg"
-    },
-    {
-      "id": 2,
-      "nome": "Mia",
-      "data": "10/02/2023",
-      "adotado": "Adotada pela familia Jacinto",
-      "historia": "Uma gatinha encontrada em um dia de chuva pelas ruas, doce e carinhosa. A familia Jacinto pode dar muito amor e carinho para a nossa gatinha.",
-      "urlImage": "https://i0.statig.com.br/bancodeimagens/1t/19/gk/1t19gkv4wj56sujljd2n2h97j.jpg"
-    },
-    {
-      "id": 3,
-      "nome": "Bob",
-      "data": "19/03/2013",
-      "adotado": "Adotado pela familia Santos",
-      "historia": "Bob é um cachorro doce, carinhoso e amigável, que foi encontrado todo machucado. Agora, vive em um lar seguro e cheio de carinho, onde recebe todo o cuidado que merece.",
-      "urlImage": "https://premierpet.com.br/wp-content/uploads/2024/08/cao-duvida-768x599.jpg"
-    },
-    {
-      "id": 4,
-      "nome": "Nina",
-      "data": "30/03/2007",
-      "adotado": "Adotada pela familia Silva",
-      "historia": "Uma coelhinha doce e tranquila, resgatada de um ambiente difícil. Muito curiosa e carinhosa, ela adora explorar e receber atenção. Agora, encontrou um lar cheio de cuidado e amor.",
-      "urlImage": "https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/3897187267_f36b5e4e7a_c.webp?w=900&h=675"
-    },
-    {
-      "id": 5,
-      "nome": "Percy Jackson",
-      "data": "28/04/2026",
-      "adotado": "Adotado pela familia Graeco",
-      "historia": "Um porquinho da india pequeno e muito esperto, cheio de energia e curiosidade. Adora explorar seu cantinho e brincar. Agora, vive em um lar seguro e cheio de carinho.",
-      "urlImage": "https://www.petz.com.br/blog/wp-content/uploads/2024/08/porquinho-da-india-pode-comer-pessego-interna2.jpg"
-    }
   ]
 }
