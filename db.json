@@ -83,26 +83,40 @@
   ],
   
   "historias": [
-    {
-      "id": 1,
-      "nome": "Alberto",
-      "adotado": "Adotado",
-      "historia": "Alberto foi encontrado na rua e recebeu cuidados até encontrar uma família.",
-      "urlImage": "https://images.unsplash.com/photo-1552053831-71594a27632d"
-    },
-    {
-      "id": 2,
-      "nome": "Mel",
-      "adotado": "Adotada",
-      "historia": "Mel foi resgatada ainda filhote e hoje vive em um lar cheio de carinho.",
-      "urlImage": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b"
-    },
-    {
-      "id": 3,
-      "nome": "Thor",
-      "adotado": "Adotado",
-      "historia": "Thor foi encontrado machucado e depois de se recuperar foi adotado.",
-      "urlImage": "https://images.unsplash.com/photo-1587300003388-59208cc962cb"
-    }
-  ]
-}
+  {
+    "id": 1,
+    "nome": "Alberto",
+    "adotado": "Adotado",
+    "historia": "Alberto foi encontrado na rua e recebeu cuidados até encontrar uma família.",
+    "urlImage": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=800"
+  },
+  {
+    "id": 2,
+    "nome": "Mel",
+    "adotado": "Adotada",
+    "historia": "Mel foi resgatada ainda filhote e hoje vive em um lar cheio de carinho.",
+    "urlImage": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800"
+  },
+  {
+    "id": 3,
+    "nome": "Thor",
+    "adotado": "Adotado",
+    "historia": "Thor foi encontrado machucado e depois de se recuperar foi adotado.",
+    "urlImage": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800"
+  },
+  {
+    "id": 4,
+    "nome": "Luna",
+    "adotado": "Adotada",
+    "historia": "Luna foi acolhida por uma família que ofereceu muito amor e cuidado.",
+    "urlImage": "https://images.unsplash.com/photo-1517849845537-4d257902454a?w=800"
+  },
+  {
+    "id": 5,
+    "nome": "Nina",
+    "adotado": "Adotada",
+    "historia": "Nina passou por um período de recuperação e hoje vive feliz com sua nova família.",
+    "urlImage": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=800"
+  }
+ ]
+} 
