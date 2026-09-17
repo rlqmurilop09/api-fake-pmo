@@ -80,5 +80,29 @@
       "nome": "Amora",
       "propriedadeId": 4
     }
-  ]
-}
+  ],
+
+  "historias": [
+    {
+      "id": 1,
+      "nome": "Alberto",
+      "adotado": "Adotado",
+      "historia": "Alberto foi encontrado na rua e recebeu cuidados até encontrar uma família.",
+      "urlImage": "https://images.unsplash.com/photo-1552053831-71594a27632d"
+    },
+    {
+      "id": 2,
+      "nome": "Mel",
+      "adotado": "Adotada",
+      "historia": "Mel foi resgatada ainda filhote e hoje vive em um lar cheio de carinho.",
+      "urlImage": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b"
+    },
+    {
+      "id": 3,
+      "nome": "Thor",
+      "adotado": "Adotado",
+      "historia": "Thor foi encontrado machucado e, depois de se recuperar, foi adotado.",
+      "urlImage": "https://images.unsplash.com/photo-1587300003388-59208cc962cb"
+    }
+  ],
+
