@@ -82,6 +82,7 @@
     }
   ],
 
+  {
   "historias": [
     {
       "id": 1,
@@ -101,8 +102,8 @@
       "id": 3,
       "nome": "Thor",
       "adotado": "Adotado",
-      "historia": "Thor foi encontrado machucado e, depois de se recuperar, foi adotado.",
+      "historia": "Thor foi encontrado machucado e depois de se recuperar foi adotado.",
       "urlImage": "https://images.unsplash.com/photo-1587300003388-59208cc962cb"
     }
-  ],
-
+  ]
+}
